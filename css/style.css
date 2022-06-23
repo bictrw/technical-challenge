@@ -245,7 +245,7 @@ img {
 	height: 40px;
 	margin-top: 32px;
 	right: 0;
-	color: red;
+	color: #fff;
 	background-color: #FAD201;
 	position: absolute;
 	clip-path: circle(49.7% at 91% 89%);
@@ -725,7 +725,7 @@ details .answers {
 
 	ul {
 		
-		position: fixed;
+		position: absolute;
 		width: 100%;
 		height: 20vh;
 		background-color: rgba(255, 255, 0, 0.178);
@@ -747,7 +747,7 @@ details .answers {
 
 	.menu-bar a:hover, a.active{
 		background: none;
-		color: red;
+		color: #00A1DE;
 	}
 
 	/* span.fa-bars {
@@ -871,6 +871,7 @@ details .answers {
 
 	.why .left-half-circle {
 		bottom: 0;
+		color: #fff;
 	}
 
 	.why p {
@@ -1136,7 +1137,7 @@ details .answers {
 
 	ul {
 		
-		position: fixed;
+		position: absolute;
 		width: 100%;
 		height: 20vh;
 		background-color: rgba(255, 255, 0, 0.178);
@@ -1158,7 +1159,7 @@ details .answers {
 
 	.menu-bar a:hover, a.active{
 		background: none;
-		color: red;
+		color: #00A1DE;
 	}
 
 	/* span.fa-bars {
